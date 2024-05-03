@@ -1,0 +1,1 @@
+This is the Backend application of Rental Equipment Marketplace
